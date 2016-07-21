@@ -1,7 +1,7 @@
 {
   "room":   " ♛ Hudba Je Moja Droga CZ/SK ♛ ",
   "author": "Wibla & Helper ErikaSvK",
-  "icon":   "",
+  "icon":   null,
   "css":    "https://rawgit.com/Copyright1/Hudba-Je-Moja-Droga/master/HJMD.css",
   "rules": {
     "allowAutorespond": true,
